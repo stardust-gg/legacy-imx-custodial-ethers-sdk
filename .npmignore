@@ -1,0 +1,10 @@
+src/**
+test/**
+cache/**
+hardhat.config*
+.env
+.eslintrc*
+.prettierrc*
+tsconfig*
+webpack.config*
+*.tgz
